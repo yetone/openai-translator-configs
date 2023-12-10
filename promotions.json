@@ -3,24 +3,24 @@
         {
             "promotion": {
                 "content": {
-                    "zh-Hans": "推荐 [Aihubmix](https://aihubmix.com/register?aff=JW3M) 的 OpenAI API 密钥，1 美元 OpenAI API 额度只需人民币 3.5 元。",
-                    "zh-Hant": "推薦 [Aihubmix](https://aihubmix.com/register?aff=JW3M) 的 OpenAI API 密鑰，1 美元 OpenAI API 額度只需人民幣 3.5 元。",
-                    "en": "Recommend [Aihubmix](https://aihubmix.com/register?aff=JW3M) OpenAI API key, 1 USD OpenAI API quota only costs 3.5 RMB.",
-                    "ja": "推奨 [Aihubmix](https://aihubmix.com/register?aff=JW3M) OpenAI API キー、1 USD OpenAI API クォータは 3.5 RMB のみです。",
-                    "ko": "추천 [Aihubmix](https://aihubmix.com/register?aff=JW3M) OpenAI API 키, 1 USD OpenAI API 할당량은 3.5 RMB 만 소요됩니다.",
-                    "th": "แนะนำ [Aihubmix](https://aihubmix.com/register?aff=JW3M) คีย์ OpenAI API 1 USD OpenAI API โควต้าเพียง 3.5 RMB เท่านั้น"
+                    "zh-Hans": "推荐 [Aihubmix](https://sourl.cn/RCXQLM) 的 OpenAI API 密钥，1 美元 OpenAI API 额度只需人民币 3.5 元。",
+                    "zh-Hant": "推薦 [Aihubmix](https://sourl.cn/RCXQLM) 的 OpenAI API 密鑰，1 美元 OpenAI API 額度只需人民幣 3.5 元。",
+                    "en": "Recommend [Aihubmix](https://sourl.cn/RCXQLM) OpenAI API key, 1 USD OpenAI API quota only costs 3.5 RMB.",
+                    "ja": "推奨 [Aihubmix](https://sourl.cn/RCXQLM) OpenAI API キー、1 USD OpenAI API クォータは 3.5 RMB のみです。",
+                    "ko": "추천 [Aihubmix](https://sourl.cn/RCXQLM) OpenAI API 키, 1 USD OpenAI API 할당량은 3.5 RMB 만 소요됩니다.",
+                    "th": "แนะนำ [Aihubmix](https://sourl.cn/RCXQLM) คีย์ OpenAI API 1 USD OpenAI API โควต้าเพียง 3.5 RMB เท่านั้น"
                 },
                 "format": "markdown",
                 "fallback_language": "en"
             },
             "disclaimer": {
                 "content": {
-                    "zh-Hans": "免责声明：这是一个合作推广，虽然此 OpenAI API 密钥在推广前已经经过本软件的测试，但是由于本软件推荐的 OpenAI API 密钥由第三方平台 [Aihubmix](https://aihubmix.com/register?aff=JW3M) 提供，所以本软件不对密钥的有效性和安全性负责，请自行承担购买和使用密钥的风险。",
-                    "zh-Hant": "免責聲明：這是一個合作推廣，雖然此 OpenAI API 密鑰在推廣前已經經過本軟件的測試，但是由於本軟件推薦的 OpenAI API 密鑰由第三方平台 [Aihubmix](https://aihubmix.com/register?aff=JW3M) 提供，所以本軟件不對密鑰的有效性和安全性負責，請自行承擔購買和使用密鑰的風險。",
-                    "en": "Disclaimer: This is a cooperative promotion. Although this OpenAI API key has been tested by this software before the promotion, since the OpenAI API key recommended by this software is provided by the third-party platform [Aihubmix](https://aihubmix.com/register?aff=JW3M), this software is not responsible for the validity and security of the key. Please bear the risk of purchasing and using the key by yourself.",
-                    "ja": "免責事項：これは協力プロモーションです。この OpenAI API キーは、プロモーション前にこのソフトウェアによってテストされていますが、このソフトウェアが推奨する OpenAI API キーは、サードパーティのプラットフォーム [Aihubmix](https://aihubmix.com/register?aff=JW3M) によって提供されるため、このソフトウェアはキーの有効性とセキュリティについて責任を負いません。キーの購入と使用のリスクは自己負担してください。",
-                    "ko": "면책 조항 : 이것은 협력 프로모션입니다. 이 OpenAI API 키는 프로모션 전에이 소프트웨어에 의해 테스트되었지만이 소프트웨어가 권장하는 OpenAI API 키는 타사 플랫폼 [Aihubmix](https://aihubmix.com/register?aff=JW3M) 에서 제공되므로이 소프트웨어는 키의 유효성과 보안에 대해 책임지지 않습니다. 키를 구매하고 사용하는 위험은 스스로 부담하십시오.",
-                    "th": "คำปฏิเสธความรับผิดชอบ: นี่เป็นการส่งเสริมการร่วมมือ แม้ว่าคีย์ OpenAI API นี้จะผ่านการทดสอบโดยซอฟต์แวร์นี้ก่อนการส่งเสริมการขาย แต่เนื่องจากคีย์ OpenAI API ที่แนะนำโดยซอฟต์แวร์นี้ถูกให้โดยแพลตฟอร์มบุคคลที่สาม [Aihubmix](https://aihubmix.com/register?aff=JW3M) ดังนั้นซอฟต์แวร์นี้จึงไม่รับผิดชอบต่อความถูกต้องและความปลอดภัยของคีย์ โปรดรับผิดชอบความเสี่ยงในการซื้อและใช้คีย์ด้วยตนเอง"
+                    "zh-Hans": "免责声明：这是一个合作推广，虽然此 OpenAI API 密钥在推广前已经经过本软件的测试，但是由于本软件推荐的 OpenAI API 密钥由第三方平台 [Aihubmix](https://sourl.cn/RCXQLM) 提供，所以本软件不对密钥的有效性和安全性负责，请自行承担购买和使用密钥的风险。",
+                    "zh-Hant": "免責聲明：這是一個合作推廣，雖然此 OpenAI API 密鑰在推廣前已經經過本軟件的測試，但是由於本軟件推薦的 OpenAI API 密鑰由第三方平台 [Aihubmix](https://sourl.cn/RCXQLM) 提供，所以本軟件不對密鑰的有效性和安全性負責，請自行承擔購買和使用密鑰的風險。",
+                    "en": "Disclaimer: This is a cooperative promotion. Although this OpenAI API key has been tested by this software before the promotion, since the OpenAI API key recommended by this software is provided by the third-party platform [Aihubmix](https://sourl.cn/RCXQLM), this software is not responsible for the validity and security of the key. Please bear the risk of purchasing and using the key by yourself.",
+                    "ja": "免責事項：これは協力プロモーションです。この OpenAI API キーは、プロモーション前にこのソフトウェアによってテストされていますが、このソフトウェアが推奨する OpenAI API キーは、サードパーティのプラットフォーム [Aihubmix](https://sourl.cn/RCXQLM) によって提供されるため、このソフトウェアはキーの有効性とセキュリティについて責任を負いません。キーの購入と使用のリスクは自己負担してください。",
+                    "ko": "면책 조항 : 이것은 협력 프로모션입니다. 이 OpenAI API 키는 프로모션 전에이 소프트웨어에 의해 테스트되었지만이 소프트웨어가 권장하는 OpenAI API 키는 타사 플랫폼 [Aihubmix](https://sourl.cn/RCXQLM) 에서 제공되므로이 소프트웨어는 키의 유효성과 보안에 대해 책임지지 않습니다. 키를 구매하고 사용하는 위험은 스스로 부담하십시오.",
+                    "th": "คำปฏิเสธความรับผิดชอบ: นี่เป็นการส่งเสริมการร่วมมือ แม้ว่าคีย์ OpenAI API นี้จะผ่านการทดสอบโดยซอฟต์แวร์นี้ก่อนการส่งเสริมการขาย แต่เนื่องจากคีย์ OpenAI API ที่แนะนำโดยซอฟต์แวร์นี้ถูกให้โดยแพลตฟอร์มบุคคลที่สาม [Aihubmix](https://sourl.cn/RCXQLM) ดังนั้นซอฟต์แวร์นี้จึงไม่รับผิดชอบต่อความถูกต้องและความปลอดภัยของคีย์ โปรดรับผิดชอบความเสี่ยงในการซื้อและใช้คีย์ด้วยตนเอง"
                 },
                 "format": "markdown",
                 "fallback_language": "en"

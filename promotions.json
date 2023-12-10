@@ -25,7 +25,7 @@
                 "format": "markdown",
                 "fallback_language": "en"
             },
-            "help_link": "https://google.com",
+            "configuration_doc_link": "https://google.com",
             "started_at": "2023-12-10T00:00:00+08:00",
             "ended_at": "2024-01-12T23:59:59+08:00"
         }

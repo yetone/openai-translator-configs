@@ -25,8 +25,8 @@
                 "format": "markdown",
                 "fallback_language": "en"
             },
-            "start_time": "2023-12-10T00:00:00+08:00",
-            "end_time": "2023-12-10T23:59:59+08:00"
+            "started_at": "2023-12-10T00:00:00+08:00",
+            "ended_at": "2023-12-10T23:59:59+08:00"
         }
     ]
 }

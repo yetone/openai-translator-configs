@@ -1,0 +1,1 @@
+# openai-translator-configs

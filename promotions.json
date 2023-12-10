@@ -1,5 +1,5 @@
 {
-    "openai_api_token": {
+    "openai_api_key": {
         "promotion": {
             "content": {
                 "zh-Hans": "推荐 [Aihubmix](https://aihubmix.com/register?aff=JW3M) 的 OpenAI API 密钥，1 美元 OpenAI API 额度只需 3.5 人民币",

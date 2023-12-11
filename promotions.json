@@ -1,6 +1,7 @@
 {
     "openai_api_key": [
         {
+            "id": "1",
             "promotion": {
                 "content": {
                     "zh-Hans": "推荐 [Aihubmix](https://sourl.cn/RCXQLM) 的 OpenAI API 密钥，1 美元 OpenAI API 额度只需人民币 3.5 元。",

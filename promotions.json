@@ -4,12 +4,12 @@
             "id": "2",
             "promotion": {
                 "content": {
-                    "zh-Hans": "推荐 [Aihubmix](https://sourl.cn/RCXQLM) 的 OpenAI API 密钥，1 美元 OpenAI API 额度只需人民币 3.5 元。",
-                    "zh-Hant": "推薦 [Aihubmix](https://sourl.cn/RCXQLM) 的 OpenAI API 密鑰，1 美元 OpenAI API 額度只需人民幣 3.5 元。",
-                    "en": "Recommend [Aihubmix](https://sourl.cn/RCXQLM) OpenAI API key, 1 USD OpenAI API quota only costs 3.5 RMB.",
-                    "ja": "推奨 [Aihubmix](https://sourl.cn/RCXQLM) OpenAI API キー、1 USD OpenAI API クォータは 3.5 RMB のみです。",
-                    "ko": "추천 [Aihubmix](https://sourl.cn/RCXQLM) OpenAI API 키, 1 USD OpenAI API 할당량은 3.5 RMB 만 소요됩니다.",
-                    "th": "แนะนำ [Aihubmix](https://sourl.cn/RCXQLM) คีย์ OpenAI API 1 USD OpenAI API โควต้าเพียง 3.5 RMB เท่านั้น"
+                    "zh-Hans": "推荐 [Aihubmix](https://sourl.cn/RCXQLM) 的 OpenAI API 密钥，速度很快，购买方便，经济实惠，1 美元 OpenAI API 额度只需人民币 3.5 元。",
+                    "zh-Hant": "推薦 [Aihubmix](https://sourl.cn/RCXQLM) 的 OpenAI API 密鑰，速度很快，購買方便，經濟實惠，1 美元 OpenAI API 額度只需人民幣 3.5 元。",
+                    "en": "Recommend [Aihubmix](https://sourl.cn/RCXQLM) OpenAI API key, fast speed, convenient purchase, economical and affordable, 1 US dollar OpenAI API quota only needs 3.5 yuan.",
+                    "ja": "OpenAI APIキーを推奨する[Aihubmix]（https://sourl.cn/RCXQLM）、高速な速度、便利な購入、経済的で手頃な価格、1米ドルのOpenAI APIクォータは3.5元にしか必要ありません。",
+                    "ko": "추천 [Aihubmix](https://sourl.cn/RCXQLM) OpenAI API 키, 빠른 속도, 편리한 구매, 경제적이고 저렴한, 1 달러 OpenAI API 할당량은 3.5 위안이 필요합니다.",
+                    "th": "แนะนำ [Aihubmix] (https://sourl.cn/RCXQLM) คีย์ OpenAI API ความเร็วสูง การซื้อที่สะดวก คุ้มค่า โควต้า OpenAI API 1 ดอลลาร์เท่านั้นที่จำเป็นต้องใช้ 3.5 หยวน"
                 },
                 "format": "markdown",
                 "fallback_language": "en"

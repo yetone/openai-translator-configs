@@ -11,7 +11,7 @@
             },
             "disclaimer": {
                 "content": {
-                    "zh-Hans": "免责声明：这是一个合作推广，虽然此 OpenAI API 密钥在推广前已经经过本软件的全面测试，但是由于本软件推荐的 OpenAI API 密钥由第三方平台 [Aihubmix](https://sourl.cn/RCXQLM) 提供，所以本软件不对密钥的有效性和安全性负责，请自行承担购买和使用密钥的风险。"
+                    "zh-Hans": "免责声明：这是一个合作推广，虽然此 OpenAI API 密钥在推广前已经经过本软件的全面测试，但是由于本软件推荐的 OpenAI API 密钥由第三方平台 [Aihubmix](https://aihubmix.com?aff=JW3M) 提供，所以本软件不对密钥的有效性和安全性负责，请自行承担购买和使用密钥的风险。"
                 },
                 "format": "markdown",
                 "fallback_language": "zh-Hans"

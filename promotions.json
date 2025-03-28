@@ -17,6 +17,24 @@
                 "fallback_language": "zh-Hans"
             },
             "started_at": "2023-12-11T00:00:00+08:00"
+        },
+        {
+            "id": "4",
+            "promotion": {
+                "content": {
+                    "zh-Hans": "推荐 [DeerAPI](https://api.deerapi.com/register?aff=qrr8) 的 OpenAI API 密钥，速度飞快，极其便宜，可支付宝充值。"
+                },
+                "format": "markdown",
+                "fallback_language": "zh-Hans"
+            },
+            "disclaimer": {
+                "content": {
+                    "zh-Hans": "免责声明：这是一个合作推广，虽然此 OpenAI API 密钥在推广前已经经过本软件的全面测试，但是由于本软件推荐的 OpenAI API 密钥由第三方平台 [DeerAPI](https://api.deerapi.com/register?aff=qrr8) 提供，所以本软件不对密钥的有效性和安全性负责，请自行承担购买和使用密钥的风险。"
+                },
+                "format": "markdown",
+                "fallback_language": "zh-Hans"
+            },
+            "started_at": "2025-03-28T00:00:00+08:00"
         }
     ]
 }

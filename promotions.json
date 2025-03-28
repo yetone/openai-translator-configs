@@ -4,7 +4,7 @@
             "id": "3",
             "promotion": {
                 "content": {
-                    "zh-Hans": "推荐 [Aihubmix](https://aihubmix.com?aff=JW3M) 的 OpenAI API 密钥，速度飞快，极其便宜，1 美元额度仅需人民币 6.3 元，可支付宝充值。"
+                    "zh-Hans": "推荐 [Aihubmix](https://aihubmix.com?aff=JW3M) 的 OpenAI API 密钥，速度飞快，极其便宜，可支付宝/微信充值。"
                 },
                 "format": "markdown",
                 "fallback_language": "zh-Hans"
@@ -22,7 +22,7 @@
             "id": "4",
             "promotion": {
                 "content": {
-                    "zh-Hans": "推荐 [DeerAPI](https://api.deerapi.com/register?aff=qrr8) 的 OpenAI API 密钥，速度飞快，极其便宜，可支付宝充值。"
+                    "zh-Hans": "推荐 [DeerAPI](https://api.deerapi.com/register?aff=qrr8) 的 OpenAI API 密钥，速度飞快，极其便宜，可支付宝/微信充值。"
                 },
                 "format": "markdown",
                 "fallback_language": "zh-Hans"
